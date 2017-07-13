@@ -26,7 +26,7 @@ html{
 /**** We put pattern mask in body ***/
 body{
 	margin:0;
-	background-color: rgba(236, 239, 241, 0.85);
+	background-color: rgba(236, 239, 241, 0.5);
 	text-align: center;
 	text-transform: uppercase;
 	background-position: center;
